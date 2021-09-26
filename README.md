@@ -23,3 +23,7 @@ Puedes ver el historial de tus lavados de auto
 Puedes modificar ajustes de tu cuenta
 
 <img src="assets/account.png" width="200" height="350" /> <img src="assets/profile.png" width="200" height="350" />
+
+
+Aquí un video
+[Carowash en funcionamiento]({assets/video.mov} "To carowash video")
