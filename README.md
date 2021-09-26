@@ -26,4 +26,6 @@ Puedes modificar ajustes de tu cuenta
 
 
 Aquí un video
-[Carowash en funcionamiento]({assets/video.mov} "To carowash video")
+
+<a href="assets/video.mov" title="Link Title"><img src="assets/logo.png" alt="To carowash video" width="200" height="300"/></a>
+
